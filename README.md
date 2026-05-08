@@ -1,26 +1,33 @@
-# Stock-Market-Analysis-System# Stock Market Analysis System
+# 📈 Stock Market Analysis System
 **Canadian International College - May 2026**
+**Course:** BIS Project | **Supervisor:** Dr. Khalaf
 
-## 🚀 Project Overview
-[cite_start]This is a web-based application developed using **Streamlit** that allows users to view and analyze stock market data[cite: 337]. [cite_start]The system provides visualizations and basic stock information to help users understand market trends[cite: 338].
+---
 
-## 👥 Team Members
+## 🔗 Live Demo
+[👉 Click here to run the App](PASTE_YOUR_STREAMLIT_URL_HERE)
+
+---
+
+## 📖 Project Overview
+This is a web-based application developed using **Streamlit** that allows users to view and analyze stock market data. The system provides interactive visualizations and historical data to help users understand market trends.
+
+## 👥 Team Members (Group 4)
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
-| Shahd Maher | 202207065 | [cite_start]Project Lead / Backend [cite: 332] |
-| Zeina Sherif | 202206582 | [cite_start]Data Processing & Analysis [cite: 332] |
-| Rama Said | 202206960 | [cite_start]Visualization Developer [cite: 332] |
-| Mayar Sherief | 202206131 | [cite_start]UI Developer / Tester / Docs [cite: 332] |
-| Rayan Hesham | 202206466 | [cite_start]Supporting Developer [cite: 332] |
+| **Shahd Maher** | 202207065 | Project Lead / Backend |
+| **Zeina Sherif** | 202206582 | Data Processing & Analysis |
+| **Rama Said** | 202206960 | Visualization Developer |
+| **Mayar Sherief** | 202206131 | UI Developer / Tester / Docs |
+| **Rayan Hesham** | 202206466 | Supporting Developer |
 
-## 🛠 Tools & Technologies
-* [cite_start]**Language:** Python [cite: 361]
-* [cite_start]**Web Framework:** Streamlit [cite: 360]
-* [cite_start]**Libraries:** Pandas, Matplotlib/Plotly, yfinance [cite: 363, 364]
+## 🛠 Features
+* **Real-time Data:** Fetches latest prices via `yfinance` API.
+* **Interactive Charts:** Visualizes trends using `Plotly`.
+* **Flexible Filtering:** Toggle between 7-day and 1-month views.
+* **Error Handling:** Validates stock symbols to prevent crashes (as shown in tests).
 
-## 📋 Functional Requirements
-* [cite_start]Accept stock symbol input (e.g., AAPL)[cite: 349].
-* [cite_start]Fetch data from Yahoo Finance API[cite: 349].
-* [cite_start]Display current price and historical data (7 days / 1 month)[cite: 350].
-* [cite_start]Generate interactive line charts[cite: 351].
-* [cite_start]Handle invalid inputs with error messages[cite: 351].
+## 🚀 How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
