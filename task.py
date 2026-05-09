@@ -37,7 +37,7 @@ def create_stock_chart(df, symbol, company_name):
 # ==========================================
 
 st.set_page_config(page_title="Stock Market Analysis System", layout="wide")
-st.title("ð Stock Market Analysis System")
+st.title("📈 Stock Market Analysis System")
 st.markdown("Developed for **Dr. Khalaf's** BIS Project")
 
 symbol = st.text_input("Enter Stock Symbol:", "AAPL").upper()
