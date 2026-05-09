@@ -5,8 +5,8 @@
 ---
 
 ## 🔗 Live Demo
-[👉 Click here to run the App](PASTE_YOUR_STREAMLIT_URL_HERE)
-
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.4:8501
 ---
 
 ## 📖 Project Overview
