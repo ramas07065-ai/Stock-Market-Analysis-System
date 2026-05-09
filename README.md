@@ -12,7 +12,7 @@ https://stock-market-analysis-system-nh6pbe3bthdd9xhq6v92n5.streamlit.app/
 ## 📖 Project Overview
 This is a web-based application developed using **Streamlit** that allows users to view and analyze stock market data. The system provides interactive visualizations and historical data to help users understand market trends.
 
-## 👥 Team Members (Group 4)
+## 👥 Team Members (Group 5)
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
 | **Shahd Maher** | 202207065 | Project Lead / Backend |
