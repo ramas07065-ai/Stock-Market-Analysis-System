@@ -5,8 +5,8 @@
 ---
 
 ## 🔗 Live Demo
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.1.4:8501
+https://stock-market-analysis-system-nh6pbe3bthdd9xhq6v92n5.streamlit.app/
+
 ---
 
 ## 📖 Project Overview
